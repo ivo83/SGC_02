@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SGC_02</string>
+    <string name="Fragment1">Text, that should be shown in Fragment1.</string>
+
+</resources>
